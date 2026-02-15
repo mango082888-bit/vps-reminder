@@ -1,0 +1,14 @@
+{
+  "vps": [
+    {
+      "name": "示例VPS",
+      "provider": "示例商家",
+      "ip": "1.2.3.4",
+      "cycle": "monthly",
+      "date": "2026-12-31",
+      "price": "10U"
+    }
+  ],
+  "remind_days": [1, 3, 7],
+  "monitors": []
+}
